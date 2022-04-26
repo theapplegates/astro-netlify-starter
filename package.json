@@ -10,5 +10,6 @@
   },
   "devDependencies": {
     "astro": "^0.21.6"
+    "astro-imagetools": "^0.5.8"
   }
 }
